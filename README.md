@@ -1,7 +1,6 @@
 # ip_transmitter
 simple ip transmitter in python
 --------------------------------
-![](https://github.com/CIRKLARE/ip_transmitter/blob/main/gmail-allow-less-secure-apps.png)
 
 I just discovered a new method to get ip from computers
 without phishing link or any malware
