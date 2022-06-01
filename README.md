@@ -9,7 +9,8 @@ I will call it ipa vulnerability
 
 I made exe version of the python script that sends ip to my Gmail
 
-don't forget to enable less secure apps on your testing gmail 
+don't forget to enable less secure apps on your testing gmail
+![Less-secure-apps](https://github.com/CIRKLARE/ip_transmitter/blob/main/gmail-allow-less-secure-apps.png)
 
 here is virus total results
 
